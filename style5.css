@@ -1,0 +1,19 @@
+#black{
+    background-color: black;
+    height: 200px;
+}
+.white{
+    background-color: white;
+    height: 20px;
+}
+#red{
+    background-color: red;
+    height: 200px;
+}
+#green{
+    background-color: green;
+    height: 200px;
+}
+.shield{
+    margin: 100px;
+}
